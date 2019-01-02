@@ -47,8 +47,8 @@ If you want to get into the code and start contributing, you need to do a little
 
 First, download/clone this repository and `cd` into it:
 ```
-git clone git@github.com:sar-gupta/space.git
-cd space
+git clone git@github.com:KING-TIGER701/redux-firebase-space.git
+cd redux-firebase-space
 ```
 
 Create a new project in firebase by heading over to console.firebase.google.com 
@@ -138,14 +138,4 @@ After logging in with github, you can create new rooms or join existing ones. I'
 NOTE: Number of unread messages don't go to 0 when you click on the chat name (that's intentional). It goes to 0 if you send a message to that room, **or** if you click on the **number** of unread messages.
 
 ## Author
-[Sarthak Gupta](https://www.github.com/sar-gupta)
-
-## Article
-I also wrote an article about this project. Feel free to read it to get a general idea. It'll also be helpful if you want to start contributing to this app!
-
-It has been published on [Hackernoon](https://hackernoon.com/).
-
-You can read it here:
-
-https://hackernoon.com/https-medium-com-sargupta-how-i-built-a-real-time-chat-app-using-react-and-firebase-dc8690bf41f7
-
+[Mateo McDonald](https://www.github.com/KING-TIGER701)

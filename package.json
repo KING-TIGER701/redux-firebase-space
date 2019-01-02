@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "productName": "Space",
   "main": "index.js",
-  "author": "Sarthak Gupta",
+  "author": "Mateo McDonald",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
